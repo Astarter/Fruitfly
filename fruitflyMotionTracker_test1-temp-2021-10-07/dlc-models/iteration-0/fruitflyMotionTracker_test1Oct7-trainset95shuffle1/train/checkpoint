@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Ben Gao\\Documents\\GitHub\\Fruitfly\\fruitflyMotionTracker_test1-temp-2021-10-07\\dlc-models\\iteration-0\\fruitflyMotionTracker_test1Oct7-trainset95shuffle1\\train\\snapshot-50000"
+all_model_checkpoint_paths: "C:\\Users\\Ben Gao\\Documents\\GitHub\\Fruitfly\\fruitflyMotionTracker_test1-temp-2021-10-07\\dlc-models\\iteration-0\\fruitflyMotionTracker_test1Oct7-trainset95shuffle1\\train\\snapshot-50000"

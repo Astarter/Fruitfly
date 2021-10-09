@@ -1,0 +1,12 @@
+all_joints:
+- [0]
+- [1]
+all_joints_names: [left_joint_1, left_joint_2]
+dataset: training-datasets\iteration-0\UnaugmentedDataSet_fruitflyMotionTracker_test1Oct7\fruitflyMotionTracker_test1_temp95shuffle1.mat
+global_scale: 0.8
+init_weights: C:\ProgramData\Miniconda3\lib\site-packages\deeplabcut\pose_estimation_tensorflow\models\pretrained\resnet_v1_50.ckpt
+location_refinement: true
+locref_stdev: 7.2801
+net_type: resnet_50
+num_joints: 2
+scoremap_dir: test
